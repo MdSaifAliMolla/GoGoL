@@ -17,7 +17,6 @@ A high-performance, concurrent web crawler and in-memory search engine built in 
 ## Installation
 
 ```bash
-cd web-crawler
 go mod tidy
 ```
 
